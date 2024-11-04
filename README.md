@@ -10,10 +10,14 @@ Determine potential biomarkers based on fold change and statistical significance
 Visualize gene expression levels and correlation between fold change and p-values.
 Repository Contents
 
-Data: Folder for raw and processed gene expression data.
-Results: Plots and analysis results highlighting key findings.
-Dashboard: Final dashboard visualizations summarizing the expression and significance of identified genes.
-Presentation: Final slides showcasing the journey of the project.
+Data: 
+Folder for raw and processed gene expression data.
+Results: 
+Plots and analysis results highlighting key findings.
+Dashboard: 
+Final dashboard visualizations summarizing the expression and significance of identified genes.
+Presentation: 
+Final slides showcasing the journey of the project.
 
 Results
 
