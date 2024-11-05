@@ -15,17 +15,17 @@ Visualise gene expression levels and correlation between fold change and p-value
 
 **Repository Contents**
 
-Data: 
+- Data: 
 
-Folder for raw and processed gene expression data. (Kindly go through every sheets in the Excel Data Analysis file to understand the statistical tests, functional annotations (pathways) & clinical significance.)
+  Folder for raw and processed gene expression data. (Kindly go through every sheets in the Excel Data Analysis file to look at the statistical tests, functional annotations         (pathways) & clinical significance.)
 
-Results: 
+- Results: 
 
-Plots and analysis results highlighting key findings along with final dashboard visualisations.
+  Plots and analysis results highlighting key findings along with final dashboard visualisations.
 
-Presentation: 
+- Presentation: 
 
-Final slides showcasing the journey of the project.
+  Final slides showcasing the journey of the project.
 
 **Results**
 
