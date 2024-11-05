@@ -7,7 +7,8 @@ Through analysis of gene expression data, this project identifies genes with sig
 Key Objectives
 Identify genes with significant differential expression in COVID-19 samples.
 Determine potential biomarkers based on fold change and statistical significance.
-Visualize gene expression levels and correlation between fold change and p-values.
+Visualise gene expression levels and correlation between fold change and p-values.
+
 Repository Contents
 
 Data: 
@@ -16,11 +17,8 @@ Folder for raw and processed gene expression data. (Kindly go through every shee
 
 Results: 
 
-Plots and analysis results highlighting key findings.
+Plots and analysis results highlighting key findings along with final dashboard visualisations.
 
-Dashboard: 
-
-Final dashboard visualizations summarizing the expression and significance of identified genes.
 Presentation: 
 
 Final slides showcasing the journey of the project.
