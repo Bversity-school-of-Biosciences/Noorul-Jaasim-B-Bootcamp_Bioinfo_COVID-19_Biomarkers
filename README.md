@@ -11,19 +11,27 @@ Visualize gene expression levels and correlation between fold change and p-value
 Repository Contents
 
 Data: 
+
 Folder for raw and processed gene expression data. (Kindly go through every sheets in the Excel Data Analysis file to understand the statistical tests, functional annotations (pathways) & clinical significance.)
+
 Results: 
+
 Plots and analysis results highlighting key findings.
+
 Dashboard: 
+
 Final dashboard visualizations summarizing the expression and significance of identified genes.
 Presentation: 
+
 Final slides showcasing the journey of the project.
 
 Results
 
 Key findings include:
+
 A set of genes with significant differential expression in response to COVID-19.
 Identification of genes with high fold changes and low p-values, such as DHCR24, which may serve as potential biomarkers.
 
 Contact:
+
 For questions or suggestions, please reach out to jaasim.nj@gmail.com.
