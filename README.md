@@ -11,7 +11,7 @@ Visualize gene expression levels and correlation between fold change and p-value
 Repository Contents
 
 Data: 
-Folder for raw and processed gene expression data.
+Folder for raw and processed gene expression data. (Kindly go through every sheets in the Excel Data Analysis file to understand the statistical tests, functional annotations (pathways) & clinical significance.)
 Results: 
 Plots and analysis results highlighting key findings.
 Dashboard: 
