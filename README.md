@@ -1,4 +1,4 @@
-# Bioinfo_COVID-19_Biomarkers
+# Bioinfo_COVID-19_Biomarkers_Project
 **COVID-19 Biomarker Identification Project**
 This repository contains the code and resources for identifying potential biomarker genes associated with COVID-19 through differential gene expression analysis. The project aims to highlight significant genes that may serve as diagnostic or therapeutic markers, supporting further research into COVID-19 biology.
 Project Overview
